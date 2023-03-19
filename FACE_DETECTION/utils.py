@@ -13,6 +13,7 @@ import cv2 as cv
 import numpy as np
 import os
 
+
 # colors
 BLACK = (0, 0, 0)
 WHITE = (255, 255, 255)
