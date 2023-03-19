@@ -1,4 +1,4 @@
-# AiPhile-Mediapipe-Course-2023jects-2023
+# AiPhile-Mediapipe-Course-2023
 >The complete course of Mediapipe with more then 15
  example projects, you will find the complete tutorial and projects on   <a href="https://www.youtube.com/c/aiphile"><img alt="Instagram" src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"  width="60"> </a> 
 
