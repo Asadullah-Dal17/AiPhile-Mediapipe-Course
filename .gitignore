@@ -9,6 +9,7 @@ Videos/
 # Distribution / packaging
 .Python
 build/
+mp/
 develop-eggs/
 dist/
 downloads/
