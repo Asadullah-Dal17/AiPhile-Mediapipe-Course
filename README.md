@@ -12,7 +12,7 @@
 ### Face Detection
 |No: | Topic Name| Status | Type | YouTube Video 🎥 Link|
 -----|-----------|--------|------|----------------------|
-|1| Face Detection | ❌| Tutorial 👨‍🏫 | Pending... | 
+|1| Face Detection | ✅| Tutorial 👨‍🏫 | [YouTube Video Link](https://youtu.be/FsVAvgR9ifY) | 
 |2| Blurring the Face 🐵 | ❌|Project 🚧| Pending...| 
 |3| Face Movement Detection | ❌|Project 🚧| Pending...| 
 |4| Checking how close face to the camera (Simple technique using the width of face) | ❌|Project 🚧| Pending...| 
