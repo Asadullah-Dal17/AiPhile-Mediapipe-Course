@@ -47,7 +47,9 @@ def read_images_from_dir(path, resize_flag=None):
     return img_list
 
 
-def rect_corners(image, rect_points, color, DIV=6, th=2):
+def rect_corners(
+    image, rect_points, color, DIV=6, th=2, opacity=0.3, draw_overlay=False
+):
 
     x, y, w, h = rect_points
     top_right_corner = np.array(
@@ -73,19 +75,27 @@ def rect_corners(image, rect_points, color, DIV=6, th=2):
         [[x + w, (y + h) - h // DIV], [x + w, y + h], [(x + w) - w // DIV, y + h]],
         dtype=np.int32,
     )
+    if draw_overlay:
+        overlay = image.copy()  # coping the image
+        cv.rectangle(overlay, rect_points, color, -1)
+        new_img = cv.addWeighted(overlay, opacity, image, 1 - opacity, 0)
+        # print(points_list)
+        image = new_img
+
     cv.polylines(image, [bottom_left_corner], False, color, th)
 
     # cv.circle(image, (x, y), 4, color, 2)
     # cv.circle(image, (x + w, y), 4, (0, 255, 0), 2)
     # cv.circle(image, (x, y + h), 4, (255, 0, 0), 2)
     # cv.circle(image, (x + w, y + h), 4, (0, 0, 255), 2)
+    return image
 
 
 def text_with_background(
     image,
     text,
-    position,
-    fonts,
+    position=(30, 30),
+    fonts=cv.FONT_HERSHEY_PLAIN,
     scaling=1,
     color=(0, 255, 255),
     th=1,
@@ -106,30 +116,24 @@ def text_with_background(
     cv.putText(image, text, (x, y), fonts, scaling, color, th, cv.LINE_AA)
 
 
-def fill_poly_trans(img, points, color, opacity):
-    """
-    @param img: (mat) input image, where shape is drawn.
-    @param points: list [tuples(int, int) these are the points custom shape,FillPoly
-    @param color: (tuples (int, int, int)
-    @param opacity:  it is transparency of image.
-    @return: img(mat) image with rectangle draw.
-    """
+def fill_poly_trans(image, points, color, opacity):
+
     list_to_np_array = np.array(points, dtype=np.int32)
-    overlay = img.copy()  # coping the image
+    overlay = image.copy()  # coping the image
     cv.fillPoly(overlay, [list_to_np_array], color)
-    new_img = cv.addWeighted(overlay, opacity, img, 1 - opacity, 0)
+    new_image = cv.addWeighted(overlay, opacity, image, 1 - opacity, 0)
     # print(points_list)
-    img = new_img
-    # cv.polylines(img, [list_to_np_array], True, color, 1, cv.LINE_AA)
-    return img
+    image = new_image
+    # cv.polylines(image, [list_to_np_array], True, color, 1, cv.LINE_AA)
+    return image
 
 
-def trans_circle(img, org, radi, color, opacity):
+def trans_circle(image, org, radi, color, opacity):
 
-    overlay = img.copy()  # coping the image
+    overlay = image.copy()  # coping the image
     cv.circle(overlay, org, radi, color, -1)
-    new_img = cv.addWeighted(overlay, opacity, img, 1 - opacity, 0.1)
+    new_image = cv.addWeighted(overlay, opacity, image, 1 - opacity, 0.1)
     # print(points_list)
-    img = new_img
-    # cv.polylines(img, [list_to_np_array], True, color, 1, cv.LINE_AA)
-    return img
+    image = new_image
+    # cv.polylines(image, [list_to_np_array], True, color, 1, cv.LINE_AA)
+    return image
