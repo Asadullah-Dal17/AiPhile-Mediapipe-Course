@@ -1,7 +1,7 @@
 # Face Detection 
 
 - [x] Face Detection Tutorial 
-- [ ] Face Blurring 
+- [x] Face Blurring 
 - [ ] Face Time (Two Approaches)
 > 1.  Face Time(Screen Time) Real Time Camera Feed 
 > 2.  Face Time (Screen Time) in  Recorded Video.
