@@ -12,8 +12,8 @@
 ### Face Detection
 |No: | Topic Name| Status | Type | YouTube Video 🎥 Link| Thumbnail 🖼️|
 -----|-----------|--------|------|----------------------|----|
-|1| Face Detection | ✅| Tutorial 👨‍🏫 | [YouTube Video Link](https://youtu.be/FsVAvgR9ifY) | <img src="/Thumbnail_Images/Face_Detection-1.png">  |
-|2| Blurring the Face 🐵 | ✅ |Project 🚧| [YouTube Video Link](https://youtu.be/E91EjA4nkKg)|  <img src="/Thumbnail_Images/Face_Detection-2.png" height="100%">  | 
+|1| Face Detection | ✅| Tutorial 👨‍🏫 | [YouTube Video Link](https://youtu.be/FsVAvgR9ifY) | <img src="/Thumbnail_Images/Face_Detection-1.png" width="220px">  |
+|2| Blurring the Face 🐵 | ✅ |Project 🚧| [YouTube Video Link](https://youtu.be/E91EjA4nkKg)|  <img src="/Thumbnail_Images/Face_Detection-2.png" width="220px">  | 
 |3| Face Time | ❌|Project 🚧| Pending...| |
 |4| Face Movement Detection | ❌|Project 🚧| Pending...| | 
 |5| Checking how close face to the camera (Simple technique using the width of face) | ❌|Project 🚧| Pending...| | 
