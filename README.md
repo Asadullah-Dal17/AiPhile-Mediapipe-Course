@@ -12,7 +12,7 @@
 ### Face Detection
 |No: | Topic Name| Status | Type | YouTube Video 🎥 Link| Thumbnail 🖼️|
 -----|-----------|--------|------|----------------------|----|
-|1| Face Detection | ✅| Tutorial 👨‍🏫 | [YouTube Video Link](https://youtu.be/FsVAvgR9ifY) | <img src="https://i9.ytimg.com/vi/E91EjA4nkKg/maxresdefault.jpg" height="100%">  |
+|1| Face Detection | ✅| Tutorial 👨‍🏫 | [YouTube Video Link](https://youtu.be/FsVAvgR9ifY) | <img src="https://i9.ytimg.com/vi/E91EjA4nkKg/maxresdefault.jpg">  |
 |2| Blurring the Face 🐵 | ✅ |Project 🚧| [YouTube Video Link](https://youtu.be/E91EjA4nkKg)|  <img src="https://i9.ytimg.com/vi/E91EjA4nkKg/maxresdefault.jpg" height="100%">  | 
 |3| Face Time | ❌|Project 🚧| Pending...| |
 |4| Face Movement Detection | ❌|Project 🚧| Pending...| | 
