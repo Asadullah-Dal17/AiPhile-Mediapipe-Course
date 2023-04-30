@@ -8,6 +8,7 @@
 
 **Status :** Available ✅ Not Available ❌
 
+### [Link of Youtube Play List](https://www.youtube.com/watch?v=FsVAvgR9ifY&list=PLJ958Ls6nowW0tgwl1yoL2oF90PeevFvG) 
 ---
 ### Face Detection
 |No: | Topic Name| Status | Type | YouTube Video 🎥 Link| Thumbnail 🖼️|
