@@ -1,5 +1,5 @@
 # AiPhile-Mediapipe-Course-2023
->This comprehensive Mediapipe course offers over 15 example projects, providing you with a wealth of practical experience. You will find a complete tutorial and a diverse range of projects to help you master Mediapipe's powerful features. Check it out now to take your skills to the next level! 👉   <a href="https://www.youtube.com/c/aiphile"><img alt="Instagram" src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"  width="80"> </a> 
+> ***This comprehensive Mediapipe course offers over 15 example projects, providing you with a wealth of practical experience. You will find a complete tutorial and a diverse range of projects to help you master Mediapipe's powerful features. Check it out now to take your skills to the next level!*** 👉   <a href="https://www.youtube.com/c/aiphile"><img alt="Instagram" src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"  width="80"> </a> 
 
 ## **Table of Content**
 
