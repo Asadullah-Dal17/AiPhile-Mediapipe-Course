@@ -1,6 +1,6 @@
 # AiPhile-Mediapipe-Course-2023
 >The complete course of Mediapipe with more then 15
- There are multiple Example projects, You will find the complete tutorial and projects on   <a href="https://www.youtube.com/c/aiphile"><img alt="Instagram" src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"  width="60"> </a> 
+ This comprehensive Mediapipe course offers over 15 example projects, providing you with a wealth of practical experience. You will find a complete tutorial and a diverse range of projects to help you master Mediapipe's powerful features. Check it out now to take your skills to the next level! 👉   <a href="https://www.youtube.com/c/aiphile"><img alt="Instagram" src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"  width="60"> </a> 
 
 ## **Table of Content**
 
@@ -8,7 +8,8 @@
 
 **Status :** Available ✅ Not Available ❌
 
-### [Link of Youtube Play List](https://www.youtube.com/watch?v=FsVAvgR9ifY&list=PLJ958Ls6nowW0tgwl1yoL2oF90PeevFvG) 
+### [Link of Youtube PlayList](https://www.youtube.com/watch?v=FsVAvgR9ifY&list=PLJ958Ls6nowW0tgwl1yoL2oF90PeevFvG) 
+
 ---
 ### Face Detection
 |No: | Topic Name| Status | Type | YouTube Video 🎥 Link| Thumbnail 🖼️|
