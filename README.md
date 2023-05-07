@@ -3,10 +3,6 @@
 
 ## **Table of Content**
 
-**Type :** Tutorial 👨‍🏫 Project 🚧
-
-**Status :** Available ✅ Not Available ❌
-
 ### [Link of Youtube PlayList](https://www.youtube.com/watch?v=FsVAvgR9ifY&list=PLJ958Ls6nowW0tgwl1yoL2oF90PeevFvG) 
 
 ---
