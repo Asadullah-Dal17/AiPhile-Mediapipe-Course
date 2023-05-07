@@ -36,7 +36,9 @@
 |01| Selfie Segmentation  | ❌| Tutorial 👨‍🏫 | Pending... | 
 
 ---
-## 📫 How to reach me :call_me_hand:
+
+## 📫 Here's how you can contact us. :wave:.
+----
  
    <div id="badges">
 
