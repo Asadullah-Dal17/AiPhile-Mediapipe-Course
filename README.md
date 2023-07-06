@@ -7,33 +7,33 @@
 
 ---
 ### Face Detection
-|No: | Topic Name| Status | Type | YouTube Video 🎥 Link| Thumbnail 🖼️|
------|-----------|--------|------|----------------------|----|
-|1| Face Detection | ✅| Tutorial 👨‍🏫 | [YouTube Video Link](https://youtu.be/FsVAvgR9ifY) | <img src="/Thumbnail_Images/Face_Detection-1.png" width="220px">  |
-|2| Blurring the Face 🐵 | ✅ |Project 🚧| [YouTube Video Link](https://youtu.be/E91EjA4nkKg)|  <img src="/Thumbnail_Images/Face_Detection-2.png" width="220px">  | 
-|3| Face Time | ❌|Project 🚧| Pending...| |
-|4| Face Movement Detection | ❌|Project 🚧| Pending...| | 
-|5| Checking how close face to the camera (Simple technique using the width of face) | ❌|Project 🚧| Pending...| | 
-|6| Real-Time Distance Estimation with Single camera  **Triangle Similarity** method | ❌|Project 🚧| Pending...| |
+| No: | Topic Name                                                                       | Status | Type         | YouTube Video 🎥 Link                              | Thumbnail 🖼️                                                     |
+|-----|----------------------------------------------------------------------------------|--------|--------------|----------------------------------------------------|------------------------------------------------------------------|
+| 1   | Face Detection                                                                   | ✅      | Tutorial 👨‍🏫 | [YouTube Video Link](https://youtu.be/FsVAvgR9ifY) | <img src="/Thumbnail_Images/Face_Detection-1.png" width="220px"> |
+| 2   | Blurring the Face 🐵                                                             | ✅      | Project 🚧   | [YouTube Video Link](https://youtu.be/E91EjA4nkKg) | <img src="/Thumbnail_Images/Face_Detection-2.png" width="220px"> |
+| 3   | Face Time                                                                        | ❌      | Project 🚧   | [YouTube Video Link](https://youtu.be/PSnoLNzo-9g) | <img src="/Thumbnail_Images/Face-Time-3.png" width="220px">      |
+| 4   | Face Movement Detection                                                          | ❌      | Project 🚧   | Pending...                                         |                                                                  |
+| 5   | Checking how close face to the camera (Simple technique using the width of face) | ❌      | Project 🚧   | Pending...                                         |                                                                  |
+| 6   | Real-Time Distance Estimation with Single camera  **Triangle Similarity** method | ❌      | Project 🚧   | Pending...                                         |                                                                  |
 
 ### Hand Detection
-|No: | Topic Name| Status | Type | YouTube Video 🎥 Link|
------|-----------|--------|------|----------------------|
-|01| Hand Landmarks Detection  | ❌| Tutorial 👨‍🏫 | Pending... | 
+| No: | Topic Name               | Status | Type         | YouTube Video 🎥 Link |
+|-----|--------------------------|--------|--------------|-----------------------|
+| 01  | Hand Landmarks Detection | ❌      | Tutorial 👨‍🏫 | Pending...            |
 
 ### Face Mash 
-|No: | Topic Name| Status | Type | YouTube Video 🎥 Link|
------|-----------|--------|------|----------------------|
-|01| Face Mesh  | ❌| Tutorial 👨‍🏫 | Pending... | 
+| No: | Topic Name | Status | Type         | YouTube Video 🎥 Link |
+|-----|------------|--------|--------------|-----------------------|
+| 01  | Face Mesh  | ❌      | Tutorial 👨‍🏫 | Pending...            |
 
 ### Pose Estimation
-|No: | Topic Name| Status | Type | YouTube Video 🎥 Link|
------|-----------|--------|------|----------------------|
-|01| Pose Estimation  | ❌| Tutorial 👨‍🏫 | Pending... | 
+| No: | Topic Name      | Status | Type         | YouTube Video 🎥 Link |
+|-----|-----------------|--------|--------------|-----------------------|
+| 01  | Pose Estimation | ❌      | Tutorial 👨‍🏫 | Pending...            |
 ### Selfie Segmentation 
-|No: | Topic Name| Status | Type | YouTube Video 🎥 Link|
------|-----------|--------|------|----------------------|
-|01| Selfie Segmentation  | ❌| Tutorial 👨‍🏫 | Pending... | 
+| No: | Topic Name          | Status | Type         | YouTube Video 🎥 Link |
+|-----|---------------------|--------|--------------|-----------------------|
+| 01  | Selfie Segmentation | ❌      | Tutorial 👨‍🏫 | Pending...            |
 
 ---
 
