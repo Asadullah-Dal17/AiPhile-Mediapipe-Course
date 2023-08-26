@@ -12,24 +12,25 @@
 | 1   | Face Detection                                                                   | ✅      | Tutorial 👨‍🏫 | [YouTube Video Link](https://youtu.be/FsVAvgR9ifY) | <img src="/Thumbnail_Images/Face_Detection-1.png" width="220px"> |
 | 2   | Blurring the Face 🐵                                                             | ✅      | Project 🚧   | [YouTube Video Link](https://youtu.be/E91EjA4nkKg) | <img src="/Thumbnail_Images/Face_Detection-2.png" width="220px"> |
 | 3   | Face Time                                                                        | ❌      | Project 🚧   | [YouTube Video Link](https://youtu.be/PSnoLNzo-9g) | <img src="/Thumbnail_Images/Face-Time-3.png" width="220px">      |
-| 4   | Face Movement Detection                                                          | ❌      | Project 🚧   | Pending...                                         |                                                                  |
-| 5   | Checking how close face to the camera (Simple technique using the width of face) | ❌      | Project 🚧   | Pending...                                         |                                                                  |
-| 6   | Real-Time Distance Estimation with Single camera  **Triangle Similarity** method | ❌      | Project 🚧   | Pending...                                         |                                                                  |
+| 4   | Real-Time Distance Estimation with Single camera  **Triangle Similarity** method | ❌      | Project 🚧   | Pending...                                         |                                                                  |
+| 5   | Face Movement Detection                                                          | ❌      | Project 🚧   | Pending...                                         |                                                                  |
+---
 
 ### Hand Detection
 | No: | Topic Name               | Status | Type         | YouTube Video 🎥 Link |
 |-----|--------------------------|--------|--------------|-----------------------|
 | 01  | Hand Landmarks Detection | ❌      | Tutorial 👨‍🏫 | Pending...            |
-
+---
 ### Face Mash 
 | No: | Topic Name | Status | Type         | YouTube Video 🎥 Link |
 |-----|------------|--------|--------------|-----------------------|
 | 01  | Face Mesh  | ❌      | Tutorial 👨‍🏫 | Pending...            |
-
+---
 ### Pose Estimation
 | No: | Topic Name      | Status | Type         | YouTube Video 🎥 Link |
 |-----|-----------------|--------|--------------|-----------------------|
 | 01  | Pose Estimation | ❌      | Tutorial 👨‍🏫 | Pending...            |
+---
 ### Selfie Segmentation 
 | No: | Topic Name          | Status | Type         | YouTube Video 🎥 Link |
 |-----|---------------------|--------|--------------|-----------------------|
@@ -38,7 +39,7 @@
 ---
 
 ## 📫 Here's how you can contact us. :wave:.
-----
+
  
    <div id="badges">
 
@@ -76,3 +77,7 @@
   </a> 
  
 </div>
+
+---
+I case you have any question, or you need help in project, please free to  DM me on Instagram.   <a href="https://www.instagram.com/aiphile17">
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=Instagram&logoColor=white" height=20  alt="Insta Badge"/>
