@@ -49,7 +49,7 @@
   </a>
 
 <!-- Fiverr Badge -->
-   <a href="https://www.fiverr.com/aiphile">
+   <a href="https://www.fiverr.com/asadullah_ar">
     <img src="https://img.shields.io/badge/Fiverr-fiverr?style=for-the-badge&logo=Fiverr&logoColor=black" alt="Fiverr Badge"/>
   </a>
 <!-- Instagram Badge  -->
