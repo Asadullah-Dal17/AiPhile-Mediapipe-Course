@@ -31,6 +31,33 @@ VIOLET = (238, 130, 238)
 GRAY = (127, 127, 127)
 
 
+class FPS:
+    def __init__(
+        self,
+    ):
+        self.frame_counter = 0
+        self.start_time = time.time()
+
+    def get_frame_rate(self, image):
+        current_time = time.time()
+
+        self.frame_counter += 1
+        fps = self.frame_counter / (current_time - self.start_time)
+        if self.frame_counter >= 50:
+            self.frame_counter = 0
+            self.start_time = time.time()
+        # print(fps, end="\r")
+        text_with_background(
+            image,
+            f"FPS: {fps:.2f}",
+            fonts=cv.FONT_HERSHEY_TRIPLEX,
+            scaling=0.7,
+            color=(0, 255, 0),
+            bg_color=(75, 0, 125),
+        )
+        return fps
+
+
 def read_images_from_dir(path, resize_flag=None):
     files = os.listdir(path)
     list_path = []
@@ -50,7 +77,6 @@ def read_images_from_dir(path, resize_flag=None):
 def rect_corners(
     image, rect_points, color, DIV=6, th=2, opacity=0.3, draw_overlay=False
 ):
-
     x, y, w, h = rect_points
     top_right_corner = np.array(
         [[x + w // DIV, y], [x, y], [x, y + h // DIV]], dtype=np.int32
@@ -117,7 +143,6 @@ def text_with_background(
 
 
 def fill_poly_trans(image, points, color, opacity):
-
     list_to_np_array = np.array(points, dtype=np.int32)
     overlay = image.copy()  # coping the image
     cv.fillPoly(overlay, [list_to_np_array], color)
@@ -129,7 +154,6 @@ def fill_poly_trans(image, points, color, opacity):
 
 
 def trans_circle(image, org, radi, color, opacity):
-
     overlay = image.copy()  # coping the image
     cv.circle(overlay, org, radi, color, -1)
     new_image = cv.addWeighted(overlay, opacity, image, 1 - opacity, 0.1)

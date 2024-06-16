@@ -11,7 +11,7 @@ MOVE_THRESHOLD = 8
 
 mp_face_detection = mp.solutions.face_detection
 
-cap = cv.VideoCapture(1)
+cap = cv.VideoCapture(0)
 with mp_face_detection.FaceDetection(
     model_selection=0, min_detection_confidence=0.5
 ) as face_detector:
