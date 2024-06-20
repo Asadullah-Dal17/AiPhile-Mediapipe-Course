@@ -1,12 +1,15 @@
 # AiPhile-Mediapipe-Course-2023
-> ***This comprehensive Mediapipe course offers over 15 example projects, providing you with a wealth of practical experience. You will find a complete tutorial and a diverse range of projects to help you master Mediapipe's powerful features. Check it out now to take your skills to the next level!*** 👉   <a href="https://www.youtube.com/c/aiphile"><img alt="Instagram" src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"  width="80"> </a> 
+>
+> ***This comprehensive Mediapipe course offers over 15 example projects, providing you with a wealth of practical experience. You will find a complete tutorial and a diverse range of projects to help you master Mediapipe's powerful features. Check it out now to take your skills to the next level!*** 👉   <a href="https://www.youtube.com/c/aiphile"><img alt="Instagram" src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"  width="80"> </a>
 
 ## **Table of Content**
 
-### [Link of Youtube PlayList](https://www.youtube.com/watch?v=FsVAvgR9ifY&list=PLJ958Ls6nowW0tgwl1yoL2oF90PeevFvG) 
+### [Link of Youtube PlayList](https://www.youtube.com/watch?v=FsVAvgR9ifY&list=PLJ958Ls6nowW0tgwl1yoL2oF90PeevFvG)
 
 ---
+
 ### Face Detection
+
 | No: | Topic Name                                                                       | Status | Type         | YouTube Video 🎥 Link                              | Thumbnail 🖼️                                                                           |
 |-----|----------------------------------------------------------------------------------|--------|--------------|----------------------------------------------------|----------------------------------------------------------------------------------------|
 | 1   | Face Detection                                                                   | ✅      | Tutorial 👨‍🏫 | [YouTube Video Link](https://youtu.be/FsVAvgR9ifY) | <img src="/Thumbnail_Images/Face_Detection-1.png" width="220px">                       |
@@ -17,30 +20,43 @@
 ---
 
 ### Hand Detection
+
 | No: | Topic Name               | Status | Type         | YouTube Video 🎥 Link |
 |-----|--------------------------|--------|--------------|-----------------------|
 | 01  | Hand Landmarks Detection | ❌      | Tutorial 👨‍🏫 | Pending...            |
 ---
-### Face Mash 
+
+### Object Detection
+
+| No: | Topic Name               | Status | Type         | YouTube Video 🎥 Link |
+|-----|--------------------------|--------|--------------|-----------------------|
+| 01  | Object Detection | ❌      | Tutorial 👨‍🏫 | Pending...            |
+---
+
+### Face Mash
+
 | No: | Topic Name | Status | Type         | YouTube Video 🎥 Link |
 |-----|------------|--------|--------------|-----------------------|
 | 01  | Face Mesh  | ❌      | Tutorial 👨‍🏫 | Pending...            |
 ---
+
 ### Pose Estimation
+
 | No: | Topic Name      | Status | Type         | YouTube Video 🎥 Link |
 |-----|-----------------|--------|--------------|-----------------------|
 | 01  | Pose Estimation | ❌      | Tutorial 👨‍🏫 | Pending...            |
 ---
-### Selfie Segmentation 
+
+### Selfie Segmentation
+
 | No: | Topic Name          | Status | Type         | YouTube Video 🎥 Link |
 |-----|---------------------|--------|--------------|-----------------------|
 | 01  | Selfie Segmentation | ❌      | Tutorial 👨‍🏫 | Pending...            |
 
 ---
 
-## 📫 Here's how you can contact us. :wave:.
+## 📫 Here's how you can contact us. :wave
 
- 
    <div id="badges">
 
  <!-- Youtube Badge -->
@@ -67,11 +83,11 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 
-  <!-- Face book badge  --> 
+  <!-- Face book badge  -->
   <a href="https://web.facebook.com/AIPhile17">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Badge"/>
-  </a> 
- 
+  </a>
+
 </div>
 
 ---
