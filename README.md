@@ -55,7 +55,7 @@
 
 ---
 
-## 📫 Here's how you can contact us. :wave
+## 📫 Here's how you can contact us. :wave:
 
    <div id="badges">
 
