@@ -13,7 +13,7 @@
 | 2   | Blurring the Face 🐵                                                             | ✅      | Project 🚧   | [YouTube Video Link](https://youtu.be/E91EjA4nkKg) | <img src="/Thumbnail_Images/Face_Detection-2.png" width="220px">                       |
 | 3   | Face Time                                                                        | ❌      | Project 🚧   | [YouTube Video Link](https://youtu.be/PSnoLNzo-9g) | <img src="/Thumbnail_Images/Face-Time-3.png" width="220px">                            |
 | 4   | Real-Time Distance Estimation with Single camera  **Triangle Similarity** method | ❌      | Project 🚧   | [YouTube Video Link](https://youtu.be/B-ziI5Bplug) | <img src="/Thumbnail_Images/Face_Detection_and_Distance_Estimation.png" width="220px"> |
-| 5   | Face Movement Detection                                                          | ❌      | Project 🚧   | Pending...                                         |                                                                                        |
+| 5   | Face Movement Detection  | ✅      | **Project** 🚧                                          |             [YouTube Video Link](https://youtu.be/B0K0J7FuG5M)           | <img src="/Thumbnail_Images/Face_movment_detection.png" width="220px">
 ---
 
 ### Hand Detection
