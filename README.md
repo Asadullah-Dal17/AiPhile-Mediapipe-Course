@@ -1,4 +1,4 @@
-# AiPhile-Mediapipe-Course-2023
+# AiPhile-Mediapipe-Course-2023-24
 >
 > ***This comprehensive Mediapipe course offers over 15 example projects, providing you with a wealth of practical experience. You will find a complete tutorial and a diverse range of projects to help you master Mediapipe's powerful features. Check it out now to take your skills to the next level!*** 👉   <a href="https://www.youtube.com/c/aiphile"><img alt="Instagram" src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"  width="80"> </a>
 
@@ -21,38 +21,49 @@
 
 ### Hand Detection
 
-| No: | Topic Name               | Status | Type         | YouTube Video 🎥 Link |
-|-----|--------------------------|--------|--------------|-----------------------|
-| 01  | Hand Landmarks Detection | ❌      | Tutorial 👨‍🏫 | Pending...            |
+| No: | Topic Name               | Status | Type         | YouTube Video 🎥 Link | Thumbnail 🖼️|
+|-----|--------------------------|--------|--------------|-----------------------|-------------|
+| 01  | Hand Landmarks Detection | ❌      | Tutorial 👨‍🏫 | Pending...             | Video's thumbnail|
+| 02  | ------ | ❌      | Project 🚧  | Pending...             | Video's thumbnail|
+| 03  | ------ | ❌      | Project 🚧  | Pending...             | Video's thumbnail|
+| 04  | ------ | ❌      | Project 🚧  | Pending...             | Video's thumbnail|
+
 ---
 
 ### Object Detection
 
-| No: | Topic Name               | Status | Type         | YouTube Video 🎥 Link |
-|-----|--------------------------|--------|--------------|-----------------------|
-| 01  | Object Detection | ❌      | Tutorial 👨‍🏫 | Pending...            |
+| No: | Topic Name               | Status | Type         | YouTube Video 🎥 Link |Thumbnail 🖼️|
+|-----|--------------------------|--------|--------------|-----------------------|-----------|
+| 01  | Object Detection | ❌      | Tutorial 👨‍🏫 | Pending...            | Video's thumbnail|
+| 02  | ------ | ❌      | Project 🚧  | Pending...             | Video's thumbnail|
+| 03  | ------ | ❌      | Project 🚧  | Pending...             | Video's thumbnail|
 ---
 
 ### Face Mash
 
-| No: | Topic Name | Status | Type         | YouTube Video 🎥 Link |
-|-----|------------|--------|--------------|-----------------------|
-| 01  | Face Mesh  | ❌      | Tutorial 👨‍🏫 | Pending...            |
+| No: | Topic Name | Status | Type         | YouTube Video 🎥 Link | Thumbnail 🖼️|
+|-----|------------|--------|--------------|-----------------------|-------------|
+| 01  | Face Mesh  | ❌      | Tutorial 👨‍🏫 | Pending...            | Video's thumbnail|
+| 02  | ------ | ❌      | Project 🚧  | Pending...             | Video's thumbnail|
+| 03  | ------ | ❌      | Project 🚧  | Pending...             | Video's thumbnail|
 ---
 
 ### Pose Estimation
 
-| No: | Topic Name      | Status | Type         | YouTube Video 🎥 Link |
-|-----|-----------------|--------|--------------|-----------------------|
-| 01  | Pose Estimation | ❌      | Tutorial 👨‍🏫 | Pending...            |
+| No: | Topic Name      | Status | Type         | YouTube Video 🎥 Link |Thumbnail 🖼️|
+|-----|-----------------|--------|--------------|-----------------------| -----------|
+| 01  | Pose Estimation | ❌      | Tutorial 👨‍🏫 | Pending...            |Video's thumbnail|
+| 02  | ------ | ❌      | Project 🚧  | Pending...             | Video's thumbnail|
+| 03  | ------ | ❌      | Project 🚧  | Pending...             | Video's thumbnail|
 ---
 
 ### Selfie Segmentation
 
-| No: | Topic Name          | Status | Type         | YouTube Video 🎥 Link |
-|-----|---------------------|--------|--------------|-----------------------|
-| 01  | Selfie Segmentation | ❌      | Tutorial 👨‍🏫 | Pending...            |
-
+| No: | Topic Name          | Status | Type         | YouTube Video 🎥 Link |Thumbnail 🖼️|
+|-----|---------------------|--------|--------------|-----------------------|------------|
+| 01  | Selfie Segmentation | ❌      | Tutorial 👨‍🏫 | Pending...        | Video's thumbnail|
+| 02  | ------ | ❌      | Project 🚧  | Pending...             | Video's thumbnail|
+| 03  | ------ | ❌      | Project 🚧  | Pending...             | Video's thumbnail|
 ---
 
 ## 📫 Here's how you can contact us. :wave:
